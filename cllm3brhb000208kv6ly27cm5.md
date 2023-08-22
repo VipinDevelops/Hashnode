@@ -34,4 +34,6 @@ This blog briefly shares my recent conversation with [**Gabriel Engel**](https:/
 
 ### Conclusion:
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692704760782/1d9270d9-72ab-4990-91e0-a3eb2d098cea.png align="center")
+
 In the end, the CEO's genuine humility shone through. After our discussion, he took a personal interest, asking about my college life and appreciating my contributions to Rocket Chat. He even suggested reaching out if I needed assistance. We wrapped up with a warm photo, capturing the moment and his wisdom. With smiles and gratitude, this encounter was a blend of insight and connection. Thank you 😊 for reading my blog!
