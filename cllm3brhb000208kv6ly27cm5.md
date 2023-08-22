@@ -2,7 +2,7 @@
 title: "Unveiling Wisdom: Lessons from Rocket Chat's CEO on Building Open Source, Skills for Success, and the Future of Messaging"
 datePublished: Tue Aug 22 2023 09:15:18 GMT+0000 (Coordinated Universal Time)
 cuid: cllm3brhb000208kv6ly27cm5
-slug: unveiling-wisdom-lessons-from-rocket-chats-ceo-on-building-open-source-skills-for-success-and-the-future-of-messaging
+slug: lessons-from-rocket-chats-ceo
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692694509438/40ad4bdb-6f56-4886-ad62-38170d2dcbb0.png
 tags: ai, career, networking, chatgpt, rocketchat
 
